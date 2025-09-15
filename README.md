@@ -4,7 +4,7 @@ It is structured topic-wise for easy reference.
 
 ## Topics Covered
 - [x] Arrays
-- [ ] Streams
+- [x] Streams
 - [x] Strings
 - [ ] Sorting Algorithm
 - [ ] Recursion
