@@ -23,7 +23,7 @@ public class RecursionPracticeBasicPart2 {
 
     public static void main(String[] args)
     {
-        String str="appnnacollege";
+        String str="shivanitakale";
         removeDuplicateString(str,0,new boolean[26],new StringBuilder(""));
     }
 }
