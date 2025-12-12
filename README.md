@@ -6,7 +6,8 @@ It is structured topic-wise for easy reference.
 - [x] Arrays
 - [x] Streams
 - [x] Strings
-- [ ] Sorting Algorithm
-- [ ] Recursion
+- [x] Sorting Algorithm [Bubble Sort, Selection Sort, Insertion Sort, Count Sort]
+- [x] Recursion [Tilling problem]
+- [] Backtracking [Find Subsets String, nQueens]
 
 
